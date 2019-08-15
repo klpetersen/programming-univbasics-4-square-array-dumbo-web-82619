@@ -6,4 +6,5 @@ def square_array(array)
     squared[i] = (array[i]**array[i]) 
     i += 1 
   end
+  squared
 end
